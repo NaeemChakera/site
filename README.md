@@ -1,4 +1,4 @@
-# Cakeology MSA
+# Cakeology Mombasa
 
 A front-end for Cakeology — a modern, responsive UI built with HTML, SCSS and JavaScript. This repository primarily contains the static front-end assets for the Cakeology microservices/application. Use this README as a starting point and adapt any commands or paths to match your project's actual build system.
 
